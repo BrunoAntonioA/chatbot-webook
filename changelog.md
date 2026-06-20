@@ -1,1 +1,1 @@
-- chore: agrege el changelog
+- chore: agrege el changelog y que pasa
